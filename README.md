@@ -1,0 +1,5 @@
+## Run
+
+```
+node <name>.js
+```
